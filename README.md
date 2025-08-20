@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
+
+
 **aish1998/aish1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst | Passionate About Turning Data into Insights  
 
-Here are some ideas to get you started:
+### 👋 Hi, I’m **Aishwarya** – an aspiring Data Analyst | **3⭐ Python  @HackerRank**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I’m passionate about transforming raw data into meaningful insights that help businesses make better, data-driven decisions.  
+
+### Curious and driven, I share my projects here on GitHub to showcase my journey and growth.  
+
+---
+
+## 🛠️ Skills & Tools  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
+---
+
+## 📚 Currently Learning  
+
+📌 Enrolled in **Data Analytics Bootcamp 5.0 by Codebasics**  
+🔹 Strengthening my expertise in Python, SQL, Excel & Power BI  
+🔹 Building hands-on projects to solve real-world business problems  
+
+---
+
+## 🤝 Let’s Connect  
+
+🌐 LinkedIn: www.linkedin.com/in/aishwarya-v-6057921a5    
+📧 Reach me at: aishvece@gmail.com  
+
+---
+✨ Always open to connect, collaborate, and learn from real-world data projects!
