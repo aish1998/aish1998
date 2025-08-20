@@ -2,13 +2,13 @@
 
 
 **aish1998/aish1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Aspiring Data Analyst | Passionate About Turning Raw Data into Meaningful Insights  
 
-### 👋 Hi, I’m **Aishwarya** – an aspiring Data Analyst | **3⭐ Python  @HackerRank**.  
+### 👋 Hi, I’m **Aishwarya** – a Data Analyst Apsirant | **3⭐ Python  @HackerRank**.  
+
 
 ### I’m passionate about transforming raw data into meaningful insights that help businesses make better, data-driven decisions.  
 
-### Curious and driven, I share my projects here on GitHub to showcase my journey and growth.  
+### I share my projects here on GitHub to showcase my journey and growth.  
 
 ---
 
