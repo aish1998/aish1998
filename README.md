@@ -1,7 +1,6 @@
 
 
 
-**aish1998/aish1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 👋 Hi, I’m **Aishwarya** – a Data Analyst Apsirant | **3⭐ Python  @HackerRank**.  
 
