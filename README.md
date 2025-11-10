@@ -4,7 +4,7 @@
 
 
 
-### 👋 Hi, I’m **Aishwarya** – a Data Analyst Apsirant | **3⭐ Python  @HackerRank**.  
+### 👋 Hi, I’m **Aishwarya** – a Data Analyst Aspirant | **3⭐ Python  @HackerRank**.  
 
 
 #### I’m passionate about transforming raw data into meaningful insights that help businesses make better, data-driven decisions.  
